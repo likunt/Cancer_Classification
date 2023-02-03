@@ -1,6 +1,6 @@
 # Cancer_Classification
 
-This project aims to  identify the probable cause of cancers in terms of genes responsible for different types of cancers, such as breast cancer, renal cancer, colon cancer, lung cancer, and prostate cancer. This would lead us to early identification of each type of cancer reducing the fatality rate.
+This project aims to  identify the probable cause of cancers in terms of genes responsible for different types of cancers, such as breast cancer, renal cancer, colon cancer, lung cancer, and prostate cancer. This would lead us to early identification of each type of cancer reducing the fatality rate. Original data source: https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq#
 
 #### Dataset Details:
 The input dataset contains 801 samples for the corresponding 801 people who have been detected with different types of cancer. Each sample contains expression values of more than 20K genes. Samples have one of the types of tumors: 
